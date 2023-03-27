@@ -1,6 +1,6 @@
 creo una variabile const chiamata emailUtente con valore prompt per chiedere all'utente la sua email
 
-creo un array archivioEmail con all'interno una decina di email
+creo un array archivioEmail con all'interno una decina di email  
 
 creo una variabile let statoAccesso con valore true
 
